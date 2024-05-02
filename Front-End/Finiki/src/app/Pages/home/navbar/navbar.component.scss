@@ -1,0 +1,12 @@
+.div {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+  @media (max-width: 1200px){
+    .div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+  }

@@ -13,13 +13,17 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './Components/navbar/navbar.component';
+import { NavbarComponent } from './Pages/home/navbar/navbar.component';
 import { LoginComponent } from './Pages/login/login.component';
 import { RegisterComponent } from './Pages/register/register.component';
 import { HomeComponent } from './Pages/home/home.component';
 import { UserProfileComponent } from './Visitor/User/user-profile/user-profile.component';
 import { AdminProfileComponent } from './Visitor/Admin/admin-profile/admin-profile.component';
 import { LogoutComponent } from './Pages/logout/logout.component';
+import { HeaderComponent } from './Pages/home/home-components/header/header.component';
+import { FooterComponent } from './Pages/home/footer/footer.component';
+import { HomeHeaderBottomPageComponent } from './Pages/home/home-components/home-header-bottom-page/home-header-bottom-page.component';
+import { HomeCardsComponent } from './Pages/home/home-components/home-cards/home-cards.component';
 
 
 @NgModule({
@@ -30,7 +34,11 @@ import { LogoutComponent } from './Pages/logout/logout.component';
     RegisterComponent,
     HomeComponent,
     UserProfileComponent,
-    LogoutComponent
+    LogoutComponent,
+    HeaderComponent,
+    FooterComponent,
+    HomeHeaderBottomPageComponent,
+    HomeCardsComponent
   ],
   imports: [
     BrowserModule,

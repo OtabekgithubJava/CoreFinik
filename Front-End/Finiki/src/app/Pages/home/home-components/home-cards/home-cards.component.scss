@@ -1,0 +1,31 @@
+.cards {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.cards a {
+    margin: 20px;
+    width: 30%;
+    background-color: #F9F9F9;
+}
+
+.cards a h5 {
+    align-items: start;
+    font-size: 100px;
+    font-weight: 300;
+}
+.cards a p {
+    padding-top: 80px;
+    align-items: end;
+    font-size: 20px;
+}
+@media (max-width: 720px){
+    .cards {
+        display: block;
+    }
+    .cards a {
+        width: 500px;
+        margin: 20px auto;
+    }
+  }
