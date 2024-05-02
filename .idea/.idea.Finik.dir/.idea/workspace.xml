@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cae8eb8-fbb7-4504-ae57-b86741cf7998" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Angular/API/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/create/create.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/create/create.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/create/create.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/create/create.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/delete/delete.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/delete/delete.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/delete/delete.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/delete/delete.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-all/get-all.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-all/get-all.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-all/get-all.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-all/get-all.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-by-id/get-by-id.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-by-id/get-by-id.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-by-id/get-by-id.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/get-by-id/get-by-id.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/navbar/navbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/navbar/navbar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/update/update.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/update/update.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/update/update.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/components/update/update.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/models/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/services/crud.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/app/services/crud.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/API/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/CRUD" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/CRUD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/self-study" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/self-study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/Codes" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/Codes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/Lesson_4_practice" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/Lesson_4_practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS/CRUD" beforeDir="false" afterPath="$PROJECT_DIR$/../JS/CRUD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS/Lesson2" beforeDir="false" afterPath="$PROJECT_DIR$/../JS/Lesson2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TS" beforeDir="false" afterPath="$PROJECT_DIR$/../TS" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2frXDjmqh4BK9gvjoyQUI5jV7r1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/otabek_coding/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/otabek_coding/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/otabek_coding/.local/share/Symbols/src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cae8eb8-fbb7-4504-ae57-b86741cf7998" name="Changes" comment="" />
+      <created>1714560052967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714560052967</updated>
+      <workItem from="1714560054763" duration="940000" />
+      <workItem from="1714563513598" duration="1442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
