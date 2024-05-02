@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreFinik.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d71b8e4e3e7e2bf2c01358a99db0d20f6b2629c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+229d81707f4397bd9e7d87984f3207ab9ff736ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreFinik.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreFinik.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

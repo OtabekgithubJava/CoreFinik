@@ -14,35 +14,40 @@
       <change beforePath="$PROJECT_DIR$/../../Angular/CRUD" beforeDir="false" afterPath="$PROJECT_DIR$/../../Angular/CRUD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Angular/self-study" beforeDir="false" afterPath="$PROJECT_DIR$/../../Angular/self-study" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Finiki/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Finiki/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/CoreFinik.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/CoreFinik.API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/CoreFinik.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/CoreFinik.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Controllers/RoleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Controllers/RoleController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Controllers/UserController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Entities/DTOs/RegisterDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Entities/DTOs/RegisterDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Entities/DTOs/UpdateUserDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Entities/DTOs/UpdateUserDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Entities/Models/IDate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Entities/Models/IDate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Entities/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Entities/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Services/AuthService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Services/AuthService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/Services/IAuthService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/Services/IAuthService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/bin/Debug/net8.0/CoreFinik.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/bin/Debug/net8.0/CoreFinik.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/bin/Debug/net8.0/CoreFinik.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/bin/Debug/net8.0/CoreFinik.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/bin/Debug/net8.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/bin/Debug/net8.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/CoreFinik.API.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/ref/CoreFinik.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/ref/CoreFinik.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/refint/CoreFinik.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/Debug/net8.0/refint/CoreFinik.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.API/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/CoreFinik.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/CoreFinik.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/CoreFinik.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/CoreFinik.Application.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/Debug/net8.0/CoreFinik.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/Debug/net8.0/CoreFinik.Application.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/Debug/net8.0/CoreFinik.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/Debug/net8.0/CoreFinik.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/CoreFinik.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/CoreFinik.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/CoreFinik.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/CoreFinik.Domain.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/Debug/net8.0/CoreFinik.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/Debug/net8.0/CoreFinik.Domain.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/Debug/net8.0/CoreFinik.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/Debug/net8.0/CoreFinik.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/CoreFinik.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/CoreFinik.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/CoreFinik.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/CoreFinik.Infrastructure.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/Debug/net8.0/CoreFinik.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/Debug/net8.0/CoreFinik.Infrastructure.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/Debug/net8.0/CoreFinik.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/Debug/net8.0/CoreFinik.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CoreFinik.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Front-End/Finiki/src/app/Components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Front-End/Finiki/src/app/Components/navbar/navbar.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FrontEnd/Codes" beforeDir="false" afterPath="$PROJECT_DIR$/../../FrontEnd/Codes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FrontEnd/Lesson_4_practice" beforeDir="false" afterPath="$PROJECT_DIR$/../../FrontEnd/Lesson_4_practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS/CRUD" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS/CRUD" afterDir="false" />
@@ -58,6 +63,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/292b05efaa7141b199751f5f5e932566d82000/29/ab305fe3/AsyncMethodBuilderCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/292b05efaa7141b199751f5f5e932566d82000/84/f0e358a6/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -67,28 +76,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.CoreFinik.API: https.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/otabek_coding/Desktop/Najot Ta'lim/Front-End/Finik&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.CoreFinik.API: https.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/otabek_coding/Desktop/Najot Ta'lim/Front-End/Finik",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/otabek_coding/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/otabek_coding/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/otabek_coding/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/otabek_coding/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
+      "/Users/otabek_coding/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
+      "/Users/otabek_coding/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.CoreFinik.API: https">
     <configuration name="CoreFinik: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CoreFinik/CoreFinik.csproj" />
@@ -168,6 +177,10 @@
       <workItem from="1714575383407" duration="1674000" />
       <workItem from="1714579475809" duration="1288000" />
       <workItem from="1714624294164" duration="12000" />
+      <workItem from="1714625223235" duration="764000" />
+      <workItem from="1714631061220" duration="298000" />
+      <workItem from="1714631394423" duration="548000" />
+      <workItem from="1714632361590" duration="2560000" />
     </task>
     <task id="LOCAL-00001" summary="Auth done">
       <option name="closed" value="true" />

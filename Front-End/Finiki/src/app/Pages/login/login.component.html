@@ -20,7 +20,7 @@
         </mat-icon>
       </mat-form-field>
   
-      <button type="submit" [disabled]="!form.valid" class="full-width">Login</button>
+      <button type="submit" [disabled]="!form.valid" class="full-width" (click)="login()">Login</button>
   
       <div class="register-link">
         <span>Don't have an account?</span>

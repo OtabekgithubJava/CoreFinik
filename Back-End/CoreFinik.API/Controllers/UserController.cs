@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using IdentityAuthLesson.Entities.DTOs;
 using IdentityAuthLesson.Entities.Models;
 using IdentityAuthLesson.Services;
@@ -28,7 +29,7 @@ public class UserController : ControllerBase
 
     [HttpPost]
     [AllowAnonymous]
-    public async Task<IActionResult> Register([FromForm] RegisterDTO registerDto)
+    public async Task<IActionResult> Register(RegisterDTO registerDto)
     {
         if (!ModelState.IsValid)
         {
@@ -62,7 +63,7 @@ public class UserController : ControllerBase
     
     [HttpOptions]
     [AllowAnonymous]
-    public async Task<ActionResult<AuthDTO>> Login([FromForm] LoginDTO loginDto)
+    public async Task<ActionResult<AuthDTO>> Login(LoginDTO loginDto)
     {
         var user = await _userManager.FindByEmailAsync(loginDto.Email);
 

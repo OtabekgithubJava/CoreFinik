@@ -20,8 +20,12 @@ export class AuthService {
   tokenKey: string = 'token';
 
   login(data: LoginRequest): Observable<LoginResponse> {
-    return this.http.post<LoginResponse>(`${this.apiUrl}User/Login`, data).pipe(
+    console.log('Consoledan');
+    return this.http.post<LoginResponse>(this.apiUrl+'User/Login', data).pipe(
       map((response) => {
+
+        console.log('Consoledan');
+
         if (response.isSuccessful) {
           localStorage.setItem(this.tokenKey, response.token);
         } else {

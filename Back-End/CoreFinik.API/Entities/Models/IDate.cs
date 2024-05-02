@@ -1,3 +1,5 @@
+using System;
+
 namespace IdentityAuthLesson.Entities.Models;
 
 public interface IDate

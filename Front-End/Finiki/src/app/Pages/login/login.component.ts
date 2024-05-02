@@ -46,11 +46,14 @@ export class LoginComponent implements OnInit {
   }
 
   login(): void {
+    console.log("hi");
     this.authService.login(this.form.value).subscribe({
       next: (response) => {
+        console.log("hi");
         console.log(response);
 
         this.decodedToken = jwtDecode(localStorage.getItem(this.tokenKey)!);
+        console.log(this.decodedToken);
         console.log('rollar kelishi kere');
         for (let index = 0; index < this.decodedToken.role.length; index++) {
           console.log(this.decodedToken.role[index]);
@@ -73,7 +76,7 @@ export class LoginComponent implements OnInit {
       error: (err) => {
         console.log(err);
 
-        this.matSnackBar.open(err.error.message, 'Close', {
+        this.matSnackBar.open(err.message, 'Close', {
           duration: 5000,
           horizontalPosition: 'center'
         });
